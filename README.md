@@ -1,5 +1,5 @@
 # fract-ol
-![illustration fractol](./picture)
+![illustration fractol](./picture.png)
 Le projet fract-ol de l'École 42 est l'un des premiers projets graphiques du cursus, conçu pour initier les étudiants à la programmation 2D en générant des fractales. Une fractale est une figure géométrique fragmentée qui se répète infiniment à différentes échelles. Ce projet utilise la bibliothèque graphique MiniLibX fournie par l'école. 
 GITHUB.COM
 
