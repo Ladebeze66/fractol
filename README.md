@@ -79,4 +79,4 @@ Dépôts GitHub :
 
 Articles et Tutoriels :
 
-[fract-ol: creating graphically beautiful fractals][[fract-ol: creating graphically beautiful fractals]]
+[fract-ol: creating graphically beautiful fractals][fract-ol: creating graphically beautiful fractals]
