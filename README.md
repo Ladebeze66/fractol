@@ -76,7 +76,3 @@ Dépôts GitHub :
 
 [leogaudin/fract-ol : Implémentation détaillée du projet avec des explications sur les fractales et l'utilisation de MiniLibX.][https://github.com/leogaudin/fract-ol]
 [mcombeau/fract-ol : Un autre exemple d'implémentation, incluant des captures d'écran et des instructions d'utilisation.][https://github.com/mcombeau/fract-ol]
-
-Articles et Tutoriels :
-
-[fract-ol: creating graphically beautiful fractals][fract-ol: creating graphically beautiful fractals]
